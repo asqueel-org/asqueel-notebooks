@@ -9,7 +9,7 @@ Run all cells in order in a fresh kernel. SQLite is in memory: restarting discar
 | 1. One table in Python | [Open in Colab](https://colab.research.google.com/github/asqueel-org/asqueel-notebooks/blob/main/lesson-01.ipynb) | [Lesson](https://asqueel.org/learn/01-what-is-asqueel/) |
 | 2. Customers and invoices | [Open in Colab](https://colab.research.google.com/github/asqueel-org/asqueel-notebooks/blob/main/lesson-02.ipynb) | [Lesson](https://asqueel.org/learn/02-installation-first-db/) |
 | 3. Filter and sort | [Open in Colab](https://colab.research.google.com/github/asqueel-org/asqueel-notebooks/blob/main/lesson-03.ipynb) | [Lesson](https://asqueel.org/learn/03-the-recipe/) |
-| 4. Aliases, formulas and summaries | [Open in Colab](https://colab.research.google.com/github/asqueel-org/asqueel-notebooks/blob/main/lesson-04.ipynb) | [Lesson](https://asqueel.org/learn/04-keys-and-constraints/) |
+| 4. Aliases, formulas and related aggregates | [Open in Colab](https://colab.research.google.com/github/asqueel-org/asqueel-notebooks/blob/main/lesson-04.ipynb) | [Lesson](https://asqueel.org/learn/04-keys-and-constraints/) |
 
 Colab is a Google service; a Google account is required for execution.
 You can also download the notebooks and run them with local Jupyter (Python 3.11+).
